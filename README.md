@@ -1,3 +1,3 @@
-# A mini game made with python
+# A mini game using python
 
-You can change the guessing limt if you want. Enjoy!
+- You can change the guess limit if you want. Enjoy!
